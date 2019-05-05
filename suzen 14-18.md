@@ -1,5 +1,5 @@
 Suzen14
-Оказался в папке /home/suzen
+Оказался в папке /home/suzen \
 Перешел в /home
 ls suzen/part1 - 1 часть флага
 ls john/Documents/part2 - 2 часть флага
