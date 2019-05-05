@@ -31,6 +31,8 @@ Suzen18 \
 RTFM diary - прочитаем справку о diary - man diary \
 bmVlNm1lMEhhaU11M2thaGVpNmEK
 
+Здесь будет скрипт
+
 
 
 
