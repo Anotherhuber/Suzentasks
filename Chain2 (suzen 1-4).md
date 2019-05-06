@@ -1,5 +1,5 @@
 Suzen1 \
-cat diary.txt
+cat diary.txt \
 ZGFpejZhaFJhZVNhZXhhaWJ1YWYK
 
 здесь будет скрипт
