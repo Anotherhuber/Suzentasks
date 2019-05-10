@@ -14,7 +14,9 @@ Suzen15 \
 pwd - путь к текущей папке , название которой и есть флаг \
 TWVlMXdvaDJ6YWVoZWoyamllNm8K 
 
-Здесь будет скрипт
+Выведем командой echo путь до текущего каталога
+#!/bin/bash
+echo "($pwd)"
 
 Suzen16 \
 whoami - root \
