@@ -6,7 +6,9 @@ ls john/Documents/part2 - 2 часть флага \
 ls john/Desktop/part3 - 3 часть флага \
 d2FodmFoMWFlV2FpYmVlaG9vMmIK 
 
-Здесь будет скрипт
+Выведем названия всех 3 каталогов последовательно командой echo: \
+#!/bin/bash \
+echo "$(ls part1/)$(ls ../john/Documents/part2/)$(ls ../john/Desktop/part3/)"
 
 Suzen15 \
 pwd - путь к текущей папке , название которой и есть флаг \
