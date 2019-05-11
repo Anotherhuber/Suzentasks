@@ -4,8 +4,9 @@ V2VpMGNvaHNoZWlxdWE0YWhnaG8K
 
 
 Suzen20 \
-rm -R ./* удалил все файлы и реверсивно папки ключем R
-ключ из папки suzen YW1pZWhpaW0yb2h5NW9vRjZlaXcK
+rm -R ./* удалил все файлы и реверсивно папки ключем R \
+ключ из папки suzen  \
+YW1pZWhpaW0yb2h5NW9vRjZlaXcK
 
 
 Suzen21 \
