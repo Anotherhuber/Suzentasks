@@ -25,7 +25,7 @@ bmVlNm1lMEhhaU11M2thaGVpNmEK
 
 Suzen18 \
 RTFM diary - прочитаем справку о diary - man diary \
-bmVlNm1lMEhhaU11M2thaGVpNmEK
+Y2hpZWNoM2VpRzRJZWtlaXNlbGUK
 
 
 
